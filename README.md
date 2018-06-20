@@ -10,5 +10,5 @@ https://github.com/jalbertbowden/large-movie-reviews-dataset/tree/master/acl-imd
 To learn more about using BO for tuning machine learning model I reccomend the following tutorials:
 http://nbviewer.jupyter.org/github/SheffieldML/GPyOpt/blob/master/manual/index.ipynb
 
-Sklearn provide clear introductions to grid and random search:
+Sklearn provides clear introductions for grid and random search:
 http://scikit-learn.org/stable/modules/grid_search.html
