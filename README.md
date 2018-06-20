@@ -5,7 +5,7 @@ I have included a python notebook that provides implementations of grid-search, 
 
 The IMDB data is availible from:
 https://github.com/jalbertbowden/large-movie-reviews-dataset/tree/master/acl-imdb-v1
- and needs to be put in the Data folder.
+ and needs to be put in a folder named Data.
 
 To learn more about using BO for tuning machine learning model I reccomend the following tutorials:
 http://nbviewer.jupyter.org/github/SheffieldML/GPyOpt/blob/master/manual/index.ipynb
